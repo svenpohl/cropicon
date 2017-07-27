@@ -26,3 +26,8 @@ Notes
 -----
 2^16 = 65536 main shapes, including the rotations, 2^24 (~16,7 million) different cropcircle-images.
 
+
+Comments
+--------
+	Thank's to Jeff for some inspiration!
+		
