@@ -17,8 +17,9 @@ cropicon.o
 
 ./cropicoin.o [hash_sha256] [output.svg]
 
-Example:
-./cropicoin.o 9636fab63995a32e7875b0b5b9c2883cd599b5370bd0da9d2ff6f4e73ea130ec mycropcircle.svg
+Example
+-------
+	./cropicoin.o 9636fab63995a32e7875b0b5b9c2883cd599b5370bd0da9d2ff6f4e73ea130ec mycropcircle.svg
 
 
 Notes
