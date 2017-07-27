@@ -29,5 +29,5 @@ Notes
 
 Comments
 --------
-	Thank's to _Jeff_ for some inspiration!
+	Thank's to Jeff for some inspiration!
 		
