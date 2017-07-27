@@ -2167,20 +2167,22 @@ if (trabant1_count > 0)
 
 } // function my_trabant1
  
- 
+
 
 //
 //
-// main - 
+// main()
+//
+// cropicon.o
 //
 // 1. argument -> SHA256 hashvalue.
 // 2. argument -> output SVG-filename.
 // 
 // Usage:
-// ./gen_cc_svg.o [hash_sha256] [output.svg]
+// ./cropicon.o [hash_sha256] [output.svg]
 //
 // Example:
-// ./gen_cc_svg.o 9636fab63995a32e7875b0b5b9c2883cd599b5370bd0da9d2ff6f4e73ea130ec mycropcircle.svg
+// ./cropicon.o 9636fab63995a32e7875b0b5b9c2883cd599b5370bd0da9d2ff6f4e73ea130ec mycropcircle.svg
 //
 //
 //
