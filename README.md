@@ -6,6 +6,8 @@ Cropicon is a C++ script for cropcircle-like SVG-image generation from the first
 ![Sample Cropicon images](example.jpg "Cropicoin examples")
 
 
+[Demo-Page](http://webcropcircles.com/labor2/cropicon2/)
+
 Usage
 -----
 
